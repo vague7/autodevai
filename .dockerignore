@@ -1,0 +1,41 @@
+# Environment files
+.env
+.env.*
+
+# Development files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Testing
+.pytest_cache/
+.coverage
+.tox/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+chat_app.log
+
+# Virtual environments
+venv/
+env/
+
+# Git
+.git/
+.gitignore
+
+# Docker
+Dockerfile
+.dockerignore 
